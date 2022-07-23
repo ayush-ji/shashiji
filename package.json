@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ayush-ji/shashiji/issues"
   },
-  "homepage": "https://github.com/ayush-ji/shashiji#readme"
+  "homepage": "https://github.com/ayush-ji/shashiji#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
 }
