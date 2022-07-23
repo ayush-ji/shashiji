@@ -1,0 +1,19 @@
+{
+  "name": "shashiji",
+  "version": "1.0.0",
+  "description": "Online FoodTruck",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ayush-ji/shashiji.git"
+  },
+  "author": "Ayush Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush-ji/shashiji/issues"
+  },
+  "homepage": "https://github.com/ayush-ji/shashiji#readme"
+}
