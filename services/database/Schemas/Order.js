@@ -8,4 +8,4 @@ let Order = new Schema(
     }
 )
 
-module.exports = new mongoose.model('order', Order);
+module.exports = Order;
