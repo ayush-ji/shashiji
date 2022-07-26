@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In!</title>
+</head>
+<body>
+    <form action="/signup" method="POST" id="supform">
+        <label for="username">UserName</label>
+        <input type="text" name="username" id="username">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email">
+        <label for="password">Password</label>
+        <input type="password" id="pwd" name="pwd">
+        <label for="pwdconf">Confirm Password</label>
+        <input type="password" id="pwdconf" name="pwdconf">
+        <button onclick="handleSubmit()">done</button>
+    </form>
+
+    <script src="js/checkpass.js"></script>
+</body>
+</html>
